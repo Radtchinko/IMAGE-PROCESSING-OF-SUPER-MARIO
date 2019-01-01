@@ -1,4 +1,5 @@
 ##                                          IMAGE-PROCESSING-OF-SUPER-MARIO USING Octave
+
 # Make a computer play game based on image processing techniques, without
 # using any keyboard keys. Creating a set of frames for each Move/Action. First
 # the computer analyze the scene to detect and recognize the location of (Mario,
